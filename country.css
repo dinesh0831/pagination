@@ -1,0 +1,52 @@
+.head
+{
+    padding-left: 5rem;
+    border: outset 1px;
+    margin-bottom: 20px;
+}
+.image
+{
+    width: 15rem; 
+    height: 10rem;
+}
+.division
+{
+    width: 15rem;
+    height: 23rem;
+    border:  outset 2px black ;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+   
+}
+.flex
+{
+    display: inline-flex ;
+    margin-left:50px;
+}
+.info
+{
+    margin-left: 1.5rem;
+}
+h2
+{
+    margin-bottom: 2rem;
+}
+.search
+{
+    margin-bottom: 2rem;
+    margin-left: 3rem;
+    
+}
+.searchbar
+{
+    width: 50%;
+    height: 3rem;
+}
+.pagi
+{
+    position: absolute;
+    margin-left: 40%;
+}
+
